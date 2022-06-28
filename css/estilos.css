@@ -163,7 +163,7 @@ nav .active{
     margin: 1em auto;
     display: block;
     background-color: #fff;
-    padding: 10px;
+    padding: 50px;
     border-radius: 50%;
 }
 .baw {
@@ -251,4 +251,7 @@ footer .fa-linkedin-in{
     color: #E20000;
     
 }
+}
+.licencia{
+    color: red;
 }
