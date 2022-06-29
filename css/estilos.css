@@ -48,9 +48,9 @@ nav .active{
     font-weight: 600;
 }
 #sobre-mi{
-    background-image: url(../images/fondo-proyectos.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-size: 100%;
 }
 #sobre-mi .card{
     height: 182px;
@@ -108,6 +108,7 @@ nav .active{
     background-image: url(../images/fondo-proyectos.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-size: 100%;
 }
 #proyectos .card p{
     height: 90px
@@ -140,12 +141,9 @@ nav .active{
     background-image: url(../images/fondo-contacto.png);
     background-size:  cover;
     background-repeat: no-repeat;
+    background-size: 100%;
 }
-#proyectos {
-    background-image: url(../images/fondo-proyectos.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
+
 #proyectos h2 {
     font-size: 16px;
     text-transform: uppercase;
